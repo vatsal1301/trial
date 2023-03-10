@@ -1,0 +1,316 @@
+price_collector_name,product_name,product_group_name,product_base_grade,product_base_dimension,incoterm,business_city,zone_name,price_collection_date,Session,Price,Latitude,Longitude,State_Name,Mandies
+None,None,None,None,None,None,None,None,None,None,None,None,None,Kerala,
+None,None,None,None,None,None,None,None,None,None,None,None,None,Sikkim,
+None,None,None,None,None,None,None,None,None,None,None,None,None,Nagaland,
+None,None,None,None,None,None,None,None,None,None,None,None,None,Jammu & Kashmir,
+None,None,None,None,None,None,None,None,None,None,None,None,None,Manipur,
+None,None,None,None,None,None,None,None,None,None,None,None,None,Meghalaya,
+None,None,None,None,None,None,None,None,None,None,None,None,None,Himachal Pradesh,
+None,None,None,None,None,None,None,None,None,None,None,None,None,Mizoram,
+None,None,None,None,None,None,None,None,None,None,None,None,None,Tripura,
+None,None,None,None,None,None,None,None,None,None,None,None,None,Arunachal Pradesh,
+None,None,None,None,None,None,None,None,None,None,None,None,None,Ladakh,
+None,None,None,None,None,None,None,None,None,None,None,None,None,Uttarakhand,
+Indranil,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Durgapur,East,2023-02-17,Morning,46200,23.5350475,87.3380425,West Bengal,Durgapur
+Indranil,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Kolkata,East,2023-02-17,Morning,46900,22.5726459,88.3638953,West Bengal,Kolkata
+Indranil,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Rourkela,East,2023-02-17,Morning,44900,22.2539994,84.85775201,Odisha,Rourkela
+Indranil,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Ludhiana,North,2023-02-17,Morning,48300,30.9090157,75.851601,Punjab,Ludhiana
+Indranil,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Patna,East,2023-02-17,Morning,47800,25.6093239,85.1235252,Bihar,Patna
+Indranil,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Mandi Gobindgarh,North,2023-02-17,Morning,48700,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Alok,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Mandi Gobindgarh,North,2023-02-17,Morning,48700,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Alok,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Bhavnagar,West,2023-02-17,Morning,48900,21.7718836,72.1416449,Gujarat,Bhavnagar
+Javed,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Bhavnagar,West,2023-02-17,Morning,48900,21.7718836,72.1416449,Gujarat,Bhavnagar
+Javed,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Ahmedabad,West,2023-02-17,Morning,49000,23.0216238,72.5797068,Gujarat,Ahmedabad
+Alok,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Ahmedabad,West,2023-02-17,Morning,49000,23.0216238,72.5797068,Gujarat,Ahmedabad
+Alok,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Muzaffarnagar,North,2023-02-17,Morning,47600,29.44800635,77.74068503,Uttar Pradesh,Muzaffarnagar
+Alok,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Delhi NCR,North,2023-02-17,Morning,48300,28.6882438,77.1212148,Delhi,Delhi NCR
+Alok,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Ghaziabad,North,2023-02-17,Morning,47400,28.6711527,77.4120356,Uttar Pradesh,Ghaziabad
+Keshav,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Raipur,Central,2023-02-17,Morning,46600,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Raigarh,Central,2023-02-17,Morning,45900,22.5,83.5,Chhattisgarh,Raigarh
+Saikumar,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Hyderabad,South,2023-02-17,Morning,48400,17.38878595,78.46106473,Telangana,Hyderabad
+Saikumar,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Chennai,South,2023-02-17,Morning,47900,13.0836939,80.270186,Tamil Nadu,Chennai
+Saikumar,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Bellary,South,2023-02-17,Morning,47900,15.1433952,76.9193876,Karnataka,Bellary
+Saikumar,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Bangalore,South,2023-02-17,Morning,47900,12.9767936,77.590082,Karnataka,Bangalore
+Javed,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Mumbai,West,2023-02-17,Morning,49200,19.0785451,72.878176,Maharashtra,Mumbai
+Javed,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Goa,West,2023-02-17,Morning,48500,15.3004543,74.0855134,Goa,Goa
+Javed,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Jaipur,West,2023-02-17,Morning,48800,26.9154576,75.8189817,Rajasthan,Jaipur
+Javed,Billet,Semi Finished,IS 2830 / IS 2831,100mm x 100mm,EXW,Jalna,West,2023-02-17,Morning,48800,19.91883295,75.87085986,Maharashtra,Jalna
+Javed,Scrap,Scrap,HMS 2 (80:20),,DAP,Ahmedabad,West,2023-02-17,Morning,38000,23.0216238,72.5797068,Gujarat,Ahmedabad
+Javed,Scrap,Scrap,HMS 2 (80:20),,DAP,Jaipur,West,2023-02-17,Morning,39400,26.9154576,75.8189817,Rajasthan,Jaipur
+Javed,Scrap,Scrap,HMS 2 (80:20),,DAP,Bhavnagar,West,2023-02-17,Morning,39000,21.7718836,72.1416449,Gujarat,Bhavnagar
+Javed,Scrap,Scrap,HMS 2 (80:20),,DAP,Mumbai,West,2023-02-17,Morning,36000,19.0785451,72.878176,Maharashtra,Mumbai
+Javed,Scrap,Scrap,HMS 2 (80:20),,DAP,Jalna,West,2023-02-17,Morning,36500,19.91883295,75.87085986,Maharashtra,Jalna
+Indranil,Scrap,Scrap,HMS 2 (80:20),,DAP,Jalna,West,2023-02-17,Morning,37800,19.91883295,75.87085986,Maharashtra,Jalna
+Indranil,Scrap,Scrap,HMS 2 (80:20),,DAP,Ludhiana,North,2023-02-17,Morning,42900,30.9090157,75.851601,Punjab,Ludhiana
+Indranil,Scrap,Scrap,HMS 2 (80:20),,DAP,Durgapur,East,2023-02-17,Morning,39700,23.5204,87.3119,West Bengal,Durgapur
+Keshav,Scrap,Scrap,HMS 2 (80:20),,DAP,Raipur,Central,2023-02-17,Morning,39300,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Scrap,Scrap,End Cutting,,DAP,Raipur,Central,2023-02-17,Morning,41300,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Scrap,Scrap,HMS 2 (80:20),,DAP,Raigarh,Central,2023-02-17,Morning,38800,22.5,83.5,Chhattisgarh,Raigarh
+Alok,Scrap,Scrap,HMS 2 (80:20),,EXY,Alang,West,2023-02-17,Morning,39200,21.3968581,72.1774463,Gujarat,Alang
+Alok,Scrap,Scrap,Attachment (Ship Breaking),,EXY,Alang,West,2023-02-17,Morning,40200,21.3968581,72.1774463,Gujarat,Alang
+Alok,Scrap,Scrap,1kg,,EXY,Alang,West,2023-02-17,Morning,40600,21.3968581,72.1774463,Gujarat,Alang
+Alok,Scrap,Scrap,2kg,,EXY,Alang,West,2023-02-17,Morning,45300,21.3968581,72.1774463,Gujarat,Alang
+Alok,Scrap,Scrap,5Kg,,EXY,Alang,West,2023-02-17,Morning,45600,21.3968581,72.1774463,Gujarat,Alang
+Alok,Scrap,Scrap,4Ani,,EXY,Alang,West,2023-02-17,Morning,44600,21.3968581,72.1774463,Gujarat,Alang
+Alok,Scrap,Scrap,6Ani,,EXY,Alang,West,2023-02-17,Morning,45000,21.3968581,72.1774463,Gujarat,Alang
+Alok,Scrap,Scrap,8Ani,,EXY,Alang,West,2023-02-17,Morning,45500,21.3968581,72.1774463,Gujarat,Alang
+Alok,Scrap,Scrap,10Ani,,EXY,Alang,West,2023-02-17,Morning,45800,21.3968581,72.1774463,Gujarat,Alang
+Alok,Scrap,Scrap,12Ani,,EXY,Alang,West,2023-02-17,Morning,46800,21.3968581,72.1774463,Gujarat,Alang
+Alok,Scrap,Scrap,14Ani,,EXY,Alang,West,2023-02-17,Morning,47000,21.3968581,72.1774463,Gujarat,Alang
+Alok,Scrap,Scrap,Tukdi,,EXY,Alang,West,2023-02-17,Morning,39900,21.3968581,72.1774463,Gujarat,Alang
+Alok,Scrap,Scrap,HMS 2 (80:20),,DAP,Delhi NCR,North,2023-02-17,Morning,41500,28.6882438,77.1212148,Delhi,Delhi NCR
+Alok,Scrap,Scrap,HMS 2 (80:20),,DAP,Kanpur,North,2023-02-17,Morning,37000,26.4609135,80.3217588,Uttar Pradesh,Kanpur
+Alok,Scrap,Scrap,HMS 2 (80:20),,DAP,Mandi Gobindgarh,North,2023-02-17,Morning,40800,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Alok,Scrap,Scrap,Old Scrap,,DAP,Mandi Gobindgarh,North,2023-02-17,Morning,37800,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Alok,Scrap,Scrap,End Cutting,,DAP,Mandi Gobindgarh,North,2023-02-17,Morning,43200,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Alok,Scrap,Scrap,CRC Scrap,,DAP,Mandi Gobindgarh,North,2023-02-17,Morning,43800,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Saikumar,Scrap,Scrap,HMS 2 (80:20),,DAP,Chennai,South,2023-02-17,Morning,38300,13.0836939,80.270186,Tamil Nadu,Chennai
+Saikumar,Scrap,Scrap,HMS 2 (80:20),,DAP,Hyderabad,South,2023-02-17,Morning,38100,17.38878595,78.46106473,Telangana,Hyderabad
+Saikumar,Scrap,Scrap,HMS 2 (80:20),,DAP,Bangalore,South,2023-02-17,Morning,38100,12.9767936,77.590082,Karnataka,Bangalore
+Saikumar,Sponge Iron,Raw Materials,"PDRI, FeM 80%",,EXW,Bellary,South,2023-02-17,Morning,31600,15.1433952,76.9193876,Karnataka,Bellary
+Saikumar,Sponge Iron,Raw Materials,"CDRI, FeM 80%",,EXW,Bellary,South,2023-02-17,Morning,32500,15.1433952,76.9193876,Karnataka,Bellary
+Saikumar,Sponge Iron,Raw Materials,"PDRI, FeM 80%",,EXW,Hyderabad,South,2023-02-17,Morning,31700,17.38878595,78.46106473,Telangana,Hyderabad
+Saikumar,Sponge Iron,Raw Materials,"PDRI, FeM 80%",,EXW,Chennai,South,2023-02-17,Morning,31700,13.0836939,80.270186,Tamil Nadu,Chennai
+Indranil,Sponge Iron,Raw Materials,"CDRI, FeM 80%",,EXW,Durgapur,East,2023-02-17,Morning,33200,23.5350475,87.3380425,West Bengal,Durgapur
+Indranil,Sponge Iron,Raw Materials,"PDRI, FeM 80%",,EXW,Durgapur,East,2023-02-17,Morning,31000,23.5350475,87.3380425,West Bengal,Durgapur
+Indranil,Sponge Iron,Raw Materials,"CDRI, FeM 80%",,EXW,Rourkela,East,2023-02-17,Morning,31000,22.2539994,84.85775201,Odisha,Rourkela
+Keshav,Sponge Iron,Raw Materials,DRCLO,,EXW,Raipur,Central,2023-02-17,Morning,35200,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Sponge Iron,Raw Materials,"PDRI, FeM 80%",,EXW,Raipur,Central,2023-02-17,Morning,31700,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Sponge Iron,Raw Materials,"CDRI, FeM 80%",,EXW,Raipur,Central,2023-02-17,Morning,33800,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Sponge Iron,Raw Materials,"PDRI, FeM 80%",,EXW,Raigarh,Central,2023-02-17,Morning,31100,22.5,83.5,Chhattisgarh,Raigarh
+Keshav,Sponge Iron,Raw Materials,"CDRI, FeM 80%",,EXW,Raigarh,Central,2023-02-17,Morning,33000,22.5,83.5,Chhattisgarh,Raigarh
+Alok,Sponge Iron,Raw Materials,"CDRI, FeM 80%",,FOR,Mandi Gobindgarh,North,2023-02-17,Morning,36800,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Alok,Pig Iron,Raw Materials,Foundry Grade,,DAP,Ludhiana,North,2023-02-17,Morning,48100,30.9090157,75.851601,Punjab,Ludhiana
+Alok,Pig Iron,Raw Materials,Steel Grade,,DAP,Ludhiana,North,2023-02-17,Morning,45400,30.9090157,75.851601,Punjab,Ludhiana
+Alok,Pig Iron,Raw Materials,Foundry Grade,,DAP,Jalandhar,North,2023-02-17,Morning,48100,31.29201065,75.56805772,Punjab,Jalandhar
+Alok,Pig Iron,Raw Materials,Steel Grade,,DAP,Jalandhar,North,2023-02-17,Morning,45800,31.29201065,75.56805772,Punjab,Jalandhar
+Alok,Pig Iron,Raw Materials,Foundry Grade,,DAP,Batala,North,2023-02-17,Morning,48000,31.8193025,75.1999941,Punjab,Batala
+Alok,Pig Iron,Raw Materials,Steel Grade,,DAP,Batala,North,2023-02-17,Morning,45500,31.8193025,75.1999941,Punjab,Batala
+Keshav,Pig Iron,Raw Materials,Steel Grade,,EXW,Raipur,Central,2023-02-17,Morning,41700,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Pig Iron,Raw Materials,Steel Grade,,EXW,Bhilai,Central,2023-02-17,Morning,43550,21.2120677,81.3732849,Chhattisgarh,Bhilai
+Indranil,Pig Iron,Raw Materials,Foundry Grade,,EXW,Durgapur,East,2023-02-17,Morning,47500,23.5204,87.3380425,West Bengal,Durgapur
+Indranil,Pig Iron,Raw Materials,Steel Grade,,EXW,Durgapur,East,2023-02-17,Morning,44000,23.5350475,87.3380425,West Bengal,Durgapur
+Indranil,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Durgapur,East,2023-02-17,Morning,45700,23.5350475,87.3380425,West Bengal,Durgapur
+Indranil,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Kolkata,East,2023-02-17,Morning,46400,22.5726459,88.3638953,West Bengal,Kolkata
+Indranil,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Rourkela,East,2023-02-17,Morning,44500,22.2539994,84.85775201,Odisha,Rourkela
+Indranil,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Ludhiana,North,2023-02-17,Morning,47900,30.9090157,75.851601,Punjab,Ludhiana
+Indranil,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Patna,East,2023-02-17,Morning,47300,25.6093239,85.1235252,Bihar,Patna
+Indranil,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Mandi Gobindgarh,North,2023-02-17,Morning,48500,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Alok,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Mandi Gobindgarh,North,2023-02-17,Morning,48500,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Alok,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Bhavnagar,West,2023-02-17,Morning,48200,21.7718836,72.1416449,Gujarat,Bhavnagar
+Javed,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Bhavnagar,West,2023-02-17,Morning,48200,21.7718836,72.1416449,Gujarat,Bhavnagar
+Javed,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Ahmedabad,West,2023-02-17,Morning,48500,23.0216238,72.5797068,Gujarat,Ahmedabad
+Alok,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Ahmedabad,West,2023-02-17,Morning,48500,23.0216238,72.5797068,Gujarat,Ahmedabad
+Alok,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Muzaffarnagar,North,2023-02-17,Morning,47300,29.44800635,77.74068503,Uttar Pradesh,Muzaffarnagar
+Alok,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Delhi NCR,North,2023-02-17,Morning,48000,28.6882438,77.1212148,Delhi,Delhi NCR
+Alok,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Ghaziabad,North,2023-02-17,Morning,47100,28.6711527,77.4120356,Uttar Pradesh,Ghaziabad
+Keshav,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Raipur,Central,2023-02-17,Morning,46100,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Raigarh,Central,2023-02-17,Morning,45400,22.5,83.5,Chhattisgarh,Raigarh
+Saikumar,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Hyderabad,South,2023-02-17,Morning,47800,17.38878595,78.46106473,Telangana,Hyderabad
+Saikumar,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Chennai,South,2023-02-17,Morning,46700,13.0836939,80.270186,Tamil Nadu,Chennai
+Saikumar,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Bellary,South,2023-02-17,Morning,46800,15.1433952,76.9193876,Karnataka,Bellary
+Saikumar,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Bangalore,South,2023-02-17,Morning,46800,12.9767936,77.590082,Karnataka,Bangalore
+Javed,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Mumbai,West,2023-02-17,Morning,48700,19.0785451,72.878176,Maharashtra,Mumbai
+Javed,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Goa,West,2023-02-17,Morning,48100,15.3004543,74.0855134,Goa,Goa
+Javed,Ingot,Semi Finished,IS 2830 / IS 2831,3.5 inch x 4.5 inch,EXW,Jaipur,West,2023-02-17,Morning,48500,26.9154576,75.8189817,Rajasthan,Jaipur
+Indranil,Square,Long Products,"IS 2062, E250 BR",12mm,EXW,Durgapur,East,2023-02-17,Morning,53250,23.5350475,87.3380425,West Bengal,Durgapur
+Indranil,Square,Long Products,"IS 2062, E250 BR",12mm,EXW,Ahmedabad,West,2023-02-17,Morning,56100,23.0216238,72.5797068,Gujarat,Ahmedabad
+Indranil,Square,Long Products,"IS 2062, E250 BR",12mm,EXW,Rourkela,East,2023-02-17,Morning,51500,22.2539994,84.85775201,Odisha,Rourkela
+Indranil,Square,Long Products,"IS 2062, E250 BR",40mm,EXW,Mandi Gobindgarh,North,2023-02-17,Morning,52700,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Alok,Square,Long Products,"IS 2062, E250 BR",40mm,EXW,Mandi Gobindgarh,North,2023-02-17,Morning,53500,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Javed,Square,Long Products,"IS 2062, E250 BR",12mm,EXW,Mumbai,West,2023-02-17,Morning,57900,19.0785451,72.878176,Maharashtra,Mumbai
+Javed,Square,Long Products,"IS 2062, E250 BR",12mm,EXW,Pune,West,2023-02-17,Morning,57900,18.521428,73.8544541,Maharashtra,Pune
+Keshav,Square,Long Products,"IS 2062, E250 BR",12mm,EXW,Raipur,Central,2023-02-17,Morning,52600,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Square,Long Products,"IS 2062, E250 BR",25mm,EXW,Raipur,Central,2023-02-17,Morning,52600,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Flats,Long Products,"IS 2062, E250 BR",75mm x 12mm,EXW,Raipur,Central,2023-02-17,Morning,51800,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Flats,Long Products,"IS 2062, E250 BR",40mm x 5mm,EXW,Raipur,Central,2023-02-17,Morning,52600,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Flats,Long Products,"IS 2062, E250 BR",65mm x 12mm,EXW,Raipur,Central,2023-02-17,Morning,52600,21.2380912,81.6336993,Chhattisgarh,Raipur
+Indranil,Flats,Long Products,"IS 2062, E250 BR",19mm x 6mm,EXW,Durgapur,East,2023-02-17,Morning,52250,23.5350475,87.3380425,West Bengal,Durgapur
+Indranil,Flats,Long Products,"IS 2062, E250 BR",50mm x 5mm,EXW,Durgapur,East,2023-02-17,Morning,51500,23.5350475,87.3380425,West Bengal,Durgapur
+Indranil,Flats,Long Products,"IS 2062, E250 BR",50mm x 5mm,EXW,Ahmedabad,West,2023-02-17,Morning,54201,23.0216238,72.5797068,Gujarat,Ahmedabad
+Indranil,Flats,Long Products,"IS 2062, E250 BR",100mm x 12mm,EXW,Ahmedabad,West,2023-02-17,Morning,53600,23.0216238,72.5797068,Gujarat,Ahmedabad
+Indranil,Flats,Long Products,"IS 2062, E250 BR",65mm x 12mm,EXW,Ahmedabad,West,2023-02-17,Morning,53600,23.0216238,72.5797068,Gujarat,Ahmedabad
+Indranil,Flats,Long Products,"IS 2062, E250 BR",20mm x 5mm,EXW,Rourkela,East,2023-02-17,Morning,52200,22.2539994,84.85775201,Odisha,Rourkela
+Indranil,Flats,Long Products,"IS 2062, E250 BR",50mm x 5mm,EXW,Mandi Gobindgarh,North,2023-02-17,Morning,53500,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Alok,Flats,Long Products,"IS 2062, E250 BR",50mm x 5mm,EXW,Mandi Gobindgarh,North,2023-02-17,Morning,53500,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Javed,Flats,Long Products,"IS 2062, E250 BR",40mm x 5mm,EXW,Mumbai,West,2023-02-17,Morning,57000,19.0785451,72.878176,Maharashtra,Mumbai
+Javed,Flats,Long Products,"IS 2062, E250 BR",40mm x 5mm,EXW,Pune,West,2023-02-17,Morning,57000,18.521428,73.8544541,Maharashtra,Pune
+Saikumar,Flats,Long Products,"IS 2062, E250 BR",19mm x 6mm,EXW,Hyderabad,South,2023-02-17,Morning,55500,17.38878595,78.46106473,Telangana,Hyderabad
+Saikumar,Flats,Long Products,"IS 2062, E250 BR",19mm x 6mm,EXW,Chennai,South,2023-02-17,Morning,55300,13.0836939,80.270186,Tamil Nadu,Chennai
+Saikumar,Flats,Long Products,"IS 2062, E250 BR",19mm x 6mm,EXW,Bangalore,South,2023-02-17,Morning,55300,12.9767936,77.590082,Karnataka,Bangalore
+Indranil,Round,Long Products,"IS 2062, E250 BR / IS 2830 C25",25mm,EXW,Durgapur,East,2023-02-17,Morning,52000,23.5350475,87.3380425,West Bengal,Durgapur
+Indranil,Round,Long Products,"IS 2062, E250 BR / IS 2830 C25",12mm,EXW,Ahmedabad,West,2023-02-17,Morning,56100,23.0216238,72.5797068,Gujarat,Ahmedabad
+Indranil,Round,Long Products,"IS 2062, E250 BR / IS 2830 C25",12mm,EXW,Rourkela,East,2023-02-17,Morning,52000,22.2539994,84.85775201,Odisha,Rourkela
+Indranil,Round,Long Products,"IS 2062, E250 BR / IS 2830 C25",28mm,EXW,Mandi Gobindgarh,North,2023-02-17,Morning,52700,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Alok,Round,Long Products,"IS 2062, E250 BR / IS 2830 C25",40mm,EXW,Mandi Gobindgarh,North,2023-02-17,Morning,53500,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Javed,Round,Long Products,"IS 2062, E250 BR / IS 2830 C25",12mm,EXW,Mumbai,West,2023-02-17,Morning,57900,19.0785451,72.878176,Maharashtra,Mumbai
+Javed,Round,Long Products,"IS 2062, E250 BR / IS 2830 C25",12mm,EXW,Pune,West,2023-02-17,Morning,57900,18.521428,73.8544541,Maharashtra,Pune
+Keshav,Round,Long Products,"IS 2062, E250 BR / IS 2830 C25",12mm,EXW,Raipur,Central,2023-02-17,Morning,52600,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Wire Rod,Wire and Rope Products,SAE 1008/LC,5.5mm,EXW,Raipur,Central,2023-02-17,Morning,51000,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Wire Rod,Wire and Rope Products,IS 2879 (EQ),5.5mm,EXW,Raipur,Central,2023-02-17,Morning,59500,21.2380912,81.6336993,Chhattisgarh,Raipur
+Indranil,Wire Rod,Wire and Rope Products,SAE 1008/LC,5.5mm,EXW,Durgapur,East,2023-02-17,Morning,50300,23.5350475,87.3380425,West Bengal,Durgapur
+Keshav,HB Wire,Wire and Rope Products,,12 Gauge,EXW,Raipur,Central,2023-02-17,Morning,53500,21.2380912,81.6336993,Chhattisgarh,Raipur
+Indranil,HB Wire,Wire and Rope Products,,12 Gauge,EXW,Durgapur,East,2023-02-17,Morning,52500,23.5350475,87.3380425,West Bengal,Durgapur
+Keshav,Binding Wire,Wire and Rope Products,,20 Gauge,EXW,Bhilai,Central,2023-02-17,Morning,60000,21.2120677,81.3732849,Chhattisgarh,Bhilai
+Keshav,Binding Wire,Wire and Rope Products,,20 Gauge,EXW,Raipur,Central,2023-02-17,Morning,60000,21.2380912,81.6336993,Chhattisgarh,Raipur
+Saikumar,Binding Wire,Wire and Rope Products,,20 Gauge,EXW,Vijayawada,South,2023-02-17,Morning,60800,16.5087573,80.6185089,Andhra Pradesh,Vijayawada
+Javed,Binding Wire,Wire and Rope Products,,20 Gauge,EXW,Mumbai,West,2023-02-17,Morning,64000,19.0785451,72.878176,Maharashtra,Mumbai
+Indranil,Binding Wire,Wire and Rope Products,,20 Gauge,EXW,Durgapur,East,2023-02-17,Morning,59500,23.5350475,87.3380425,West Bengal,Durgapur
+Alok,HR Coil,Flat Products,"IS 2062, E250 BR",2.5mm to 8mm,EXY,Delhi,North,2023-02-17,Morning,58000,28.6517178,77.2219388,Delhi,
+Alok,HR Coil,Flat Products,"IS 2062, E250 BR",2.5mm to 8mm,EXY,Ghaziabad,North,2023-02-17,Morning,57500,28.6711527,77.4120356,Uttar Pradesh,Ghaziabad
+Alok,HR Coil,Flat Products,"IS 2062, E250 BR",2.5mm to 8mm,EXY,Faridabad,North,2023-02-17,Morning,57500,28.4031478,77.3105561,Haryana,Faridabad
+Keshav,HR Coil,Flat Products,"IS 2062, E250 BR",2.5mm to 8mm,EXY,Raipur,Central,2023-02-17,Morning,58500,21.2380912,81.6336993,Chhattisgarh,Raipur
+Indranil,HR Coil,Flat Products,"IS 2062, E250 BR",2.5mm to 8mm,EXY,Kolkata,East,2023-02-17,Morning,58500,22.5726459,88.3638953,West Bengal,Kolkata
+Javed,HR Coil,Flat Products,"IS 2062, E250 BR",2.5mm to 8mm,EXY,Mumbai,West,2023-02-17,Morning,58800,19.0785451,72.878176,Maharashtra,Mumbai
+Javed,HR Coil,Flat Products,"IS 2062, E250 BR",2.5mm to 8mm,EXY,Ahmedabad,West,2023-02-17,Morning,60500,23.0216238,72.5797068,Gujarat,Ahmedabad
+Saikumar,HR Coil,Flat Products,"IS 2062, E250 BR",2.5mm to 8mm,EXY,Hyderabad,South,2023-02-17,Morning,62400,17.38878595,78.46106473,Telangana,Hyderabad
+Saikumar,HR Coil,Flat Products,"IS 2062, E250 BR",2.5mm to 8mm,EXY,Chennai,South,2023-02-17,Morning,62100,13.0836939,80.270186,Tamil Nadu,Chennai
+Saikumar,HR Coil,Flat Products,"IS 2062, E250 BR",2.5mm to 8mm,EXY,Bangalore,South,2023-02-17,Morning,62100,12.9767936,77.590082,Karnataka,Bangalore
+Alok,CRCA Coil,Flat Products,IS 513 D,0.8mm to 1.2mm,EXY,Delhi NCR,North,2023-02-17,Morning,65100,28.6882438,77.1212148,Delhi,Delhi NCR
+Alok,CRCA Coil,Flat Products,IS 513 D,0.8mm to 1.2mm,EXY,Ghaziabad,North,2023-02-17,Morning,65000,28.6711527,77.4120356,Uttar Pradesh,Ghaziabad
+Alok,CRCA Coil,Flat Products,IS 513 D,0.8mm to 1.2mm,EXY,Faridabad,North,2023-02-17,Morning,65000,28.4031478,77.3105561,Haryana,Faridabad
+Indranil,CRCA Coil,Flat Products,IS 513 D,0.8mm to 1.2mm,EXY,Kolkata,East,2023-02-17,Morning,65000,22.5726459,88.3638953,West Bengal,Kolkata
+Javed,CRCA Coil,Flat Products,IS 513 D,0.8mm to 1.2mm,EXY,Mumbai,West,2023-02-17,Morning,64000,19.0785451,72.878176,Maharashtra,Mumbai
+Javed,CRCA Coil,Flat Products,IS 513 D,0.8mm to 1.2mm,EXY,Ahmedabad,West,2023-02-17,Morning,65000,23.0216238,72.5797068,Gujarat,Ahmedabad
+Saikumar,CRCA Coil,Flat Products,IS 513 D,0.8mm to 1.2mm,EXY,Hyderabad,South,2023-02-17,Morning,64600,17.38878595,78.46106473,Telangana,Hyderabad
+Saikumar,CRCA Coil,Flat Products,IS 513 D,0.8mm to 1.2mm,EXY,Chennai,South,2023-02-17,Morning,65300,13.0836939,80.270186,Tamil Nadu,Chennai
+Saikumar,CRCA Coil,Flat Products,IS 513 D,0.8mm to 1.2mm,EXY,Bangalore,South,2023-02-17,Morning,64900,12.9767936,77.590082,Karnataka,Bangalore
+Indranil,Patra Pipe (Billet Route),Tubular Products,Commercial Quality,38mm x 38mm (12kg),EXW,Ahmedabad,West,2023-02-17,Morning,55000,23.0216238,72.5797068,Gujarat,Ahmedabad
+Indranil,Patra Pipe (Billet Route),Tubular Products,Commercial Quality,38mm x 38mm (12kg),EXW,Durgapur,East,2023-02-17,Morning,55000,23.5350475,87.3380425,West Bengal,Durgapur
+Indranil,Patra Pipe (Billet Route),Tubular Products,Commercial Quality,38mm x 38mm (12kg),EXW,Rourkela,East,2023-02-17,Morning,52700,22.2539994,84.85775201,Odisha,Rourkela
+Keshav,Patra Pipe (Billet Route),Tubular Products,Commercial Quality,38mm x 38mm (12kg),EXW,Raipur,Central,2023-02-17,Morning,52300,21.2380912,81.6336993,Chhattisgarh,Raipur
+Saikumar,Patra Pipe (Billet Route),Tubular Products,Commercial Quality,38mm x 38mm (12kg),EXW,Hyderabad,South,2023-02-17,Morning,55890,17.38878595,78.46106473,Telangana,Hyderabad
+Alok,Patra Pipe (Billet Route),Tubular Products,Commercial Quality,38mm x 38mm (12kg),EXW,Mandi Gobindgarh,North,2023-02-17,Morning,53500,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Alok,ERW Pipe HR Route,Tubular Products,"IS 1161, YST 210",32OD x 2.5mm,EXY,Delhi NCR,North,2023-02-17,Morning,68000,28.6882438,77.1212148,Delhi,Delhi NCR
+Keshav,ERW Pipe HR Route,Tubular Products,"IS 1161, YST 210",32OD x 2.5mm,EXY,Raipur,Central,2023-02-17,Morning,65500,21.2380912,81.6336993,Chhattisgarh,Raipur
+Saikumar,ERW Pipe HR Route,Tubular Products,"IS 1161, YST 210",32OD x 2.5mm,EXY,Hyderabad,South,2023-02-17,Morning,65900,17.38878595,78.46106473,Telangana,Hyderabad
+Keshav,Pellets,Raw Materials,Fe 63%/64%,6mm to 20mm,EXW,Raipur,Central,2023-02-17,Morning,10100,21.2380912,81.6336993,Chhattisgarh,Raipur
+Saikumar,Pellets,Raw Materials,Fe 63%/64%,6mm to 20mm,EXW,Bellary,South,2023-02-17,Morning,9000,15.1433952,76.9193876,Karnataka,Bellary
+Indranil,Pellets,Raw Materials,Fe 63%/64%,6mm to 20mm,EXW,Durgapur,East,2023-02-17,Morning,9200,23.5350475,87.3380425,West Bengal,Durgapur
+Indranil,Pellets,Raw Materials,Fe 63%/64%,6mm to 20mm,EXW,Jharsuguda,East,2023-02-17,Morning,8800,21.87705125,84.00905064,Odisha,
+Indranil,Pellets,Raw Materials,Fe 63%/64%,6mm to 20mm,EXW,Barbil,East,2023-02-17,Morning,9200,22.06030655,85.39277997,Odisha,
+Indranil,Pellets,Raw Materials,Fe 63%/64%,6mm to 20mm,EXW,Jamshedpur,East,2023-02-17,Morning,9400,22.8015194,86.2029579,Jharkhand,
+Alok,Square Hollow Section (SHS),Tubular Products,"IS 4923, YST 210",25mm x 25mm x 2.5mm,EXY,Delhi NCR,North,2023-02-17,Morning,67000,28.6882438,77.1212148,Delhi,Delhi NCR
+Keshav,Square Hollow Section (SHS),Tubular Products,"IS 4923,  YST 210",25mm x 25mm x 2.5mm,EXY,Raipur,Central,2023-02-17,Morning,65500,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Square Hollow Section (SHS),Tubular Products,"IS 4923,  YST 310",25mm x 25mm x 2.5mm,EXY,Raipur,Central,2023-02-17,Morning,67500,21.2380912,81.6336993,Chhattisgarh,Raipur
+Alok,Rectangle Hollow Section (RHS),Tubular Products,"IS 4923, YST 210",40mm x 20mm x 2.5mm,EXY,Delhi NCR,North,2023-02-17,Morning,67000,28.6882438,77.1212148,Delhi,Delhi NCR
+Keshav,Rectangle Hollow Section (RHS),Tubular Products,"IS 4923, YST 210",40mm x 20mm x 2.5mm,EXY,Raipur,Central,2023-02-17,Morning,65500,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,PM Plate / Universal Plate,Flat Products,"IS 2062, E250 BR",12mm to 40mm,EXY,Raipur,Central,2023-02-17,Morning,61500,21.2380912,81.6336993,Chhattisgarh,Raipur
+Indranil,PM Plate / Universal Plate,Flat Products,"IS 2062, E250 BR",12mm to 20 mm,EXY,Kolkata,East,2023-02-17,Morning,60000,22.5726459,88.3638953,West Bengal,Kolkata
+Indranil,PM Plate / Universal Plate,Flat Products,"IS 2062, E250 BR",12mm to 20 mm,EXY,Rourkela,East,2023-02-17,Morning,57600,22.2539994,84.85775201,Odisha,Rourkela
+Indranil,PM Plate / Universal Plate,Flat Products,"IS 2062, E250 BR",12mm to 20 mm,EXY,Bokaro,East,2023-02-17,Morning,58600,23.69912795,85.99106894,Jharkhand,Bokaro
+Alok,PM Plate / Universal Plate,Flat Products,"IS 2062, E250 BR",10mm to 40mm,EXY,Delhi,North,2023-02-17,Morning,63800,28.6517178,77.2219388,Delhi,
+Saikumar,TMT (Primary),Long Products,"IS 1786, Fe 550D",12mm,EXY,Hyderabad,South,2023-02-17,Morning,62300,17.38878595,78.46106473,Telangana,Hyderabad
+Saikumar,TMT (Primary),Long Products,"IS 1786, Fe 550D",12mm,EXY,Visakhapatnam,South,2023-02-17,Morning,62000,17.7231276,83.3012842,Andhra Pradesh,
+Saikumar,TMT (Primary),Long Products,"IS 1786, Fe 550D",12mm,EXY,Chennai,South,2023-02-17,Morning,62000,13.0836939,80.270186,Tamil Nadu,Chennai
+Alok,TMT (Primary),Long Products,"IS 1786, Fe 550D",12mm,EXY,Kanpur,North,2023-02-17,Morning,64200,26.4609135,80.3217588,Uttar Pradesh,Kanpur
+Alok,TMT (Primary),Long Products,"IS 1786, Fe 550D",12mm,EXY,Ludhiana,North,2023-02-17,Morning,64900,30.9090157,75.851601,Punjab,Ludhiana
+Alok,TMT (Primary),Long Products,"IS 1786, Fe 550D",12mm,EXY,Delhi NCR,North,2023-02-17,Morning,64700,28.6882438,77.1212148,Delhi,Delhi NCR
+Indranil,TMT (Primary),Long Products,"IS 1786, Fe 550D",12mm,EXY,Durgapur,East,2023-02-17,Morning,61000,23.5350475,87.3380425,West Bengal,Durgapur
+Indranil,TMT (Primary),Long Products,"IS 1786, Fe 550D",12mm,EXY,Kolkata,East,2023-02-17,Morning,61000,22.5726459,88.3638953,West Bengal,Kolkata
+Indranil,TMT (Primary),Long Products,"IS 1786, Fe 550D",12mm,EXY,Rourkela,East,2023-02-17,Morning,60600,22.2539994,84.85775201,Odisha,Rourkela
+Indranil,TMT (Primary),Long Products,"IS 1786, Fe 550D",12mm,EXY,Guwahati,East,2023-02-17,Morning,63200,26.1158,91.7086,Assam,Guwahati
+Indranil,TMT (Primary),Long Products,"IS 1786, Fe 550D",12mm,EXY,Bokaro,East,2023-02-17,Morning,60800,25.6093239,85.1235252,Bihar,Bokaro
+Indranil,TMT (Primary),Long Products,"IS 1786, Fe 550D",12mm,EXY,Patna,East,2023-02-17,Morning,60800,25.6093239,85.1235252,Bihar,Patna
+Javed,TMT (Primary),Long Products,"IS 1786, Fe 550D",12mm,EXY,Mumbai,West,2023-02-17,Morning,62500,19.0785451,72.878176,Maharashtra,Mumbai
+Keshav,TMT (Primary),Long Products,"IS 1786, Fe 550D",12mm,EXY,Raipur,Central,2023-02-17,Morning,61500,21.2380912,81.6336993,Chhattisgarh,Raipur
+Javed,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Jalna,West,2023-02-17,Morning,55000,19.91883295,75.87085986,Maharashtra,Jalna
+Javed,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Mumbai,West,2023-02-17,Morning,56800,19.0785451,72.878176,Maharashtra,Mumbai
+Javed,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Nagpur,West,2023-02-17,Morning,56800,21.1498134,79.0820556,Maharashtra,Nagpur
+Keshav,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Raipur,Central,2023-02-17,Morning,50500,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Bhilai,Central,2023-02-17,Morning,50500,21.2120677,81.3732849,Chhattisgarh,Bhilai
+Keshav,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Raigarh,Central,2023-02-17,Morning,49600,22.5,83.5,Chhattisgarh,Raigarh
+Keshav,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Indore,Central,2023-02-17,Morning,56300,22.7203616,75.8681996,Madhya Pradesh,Indore
+Kunal Varma,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Ahmedabad,West,2023-02-17,Morning,53400,23.0216238,72.5797068,Gujarat,Ahmedabad
+Indranil,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Ahmedabad,West,2023-02-17,Morning,54000,23.0216238,72.5797068,Gujarat,Ahmedabad
+Kunal Varma,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Gandhidham,West,2023-02-17,Morning,53600,23.0718743,70.131715,Gujarat,Gandhidham
+Alok,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Gandhidham,West,2023-02-17,Morning,55283,23.0718743,70.131715,Gujarat,Gandhidham
+Alok,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Bhavnagar,West,2023-02-17,Morning,54266,21.7718836,72.1416449,Gujarat,Bhavnagar
+Alok,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Kanpur,North,2023-02-17,Morning,52867,26.4609135,80.3217588,Uttar Pradesh,Kanpur
+Alok,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Muzaffarnagar,North,2023-02-17,Morning,53800,29.44800635,77.74068503,Uttar Pradesh,Muzaffarnagar
+Alok,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Delhi NCR,North,2023-02-17,Morning,54800,28.6882438,77.1212148,Delhi,Delhi NCR
+Alok,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Hindupur,North,2023-02-17,Morning,54548,13.8306127,77.492635,Andhra Pradesh,Hindupur
+Alok,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Mandi Gobindgarh,North,2023-02-17,Morning,53488,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Indranil,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Durgapur,East,2023-02-17,Morning,50800,23.5350475,87.3380425,West Bengal,Durgapur
+Saikumar,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Hyderabad,South,2023-02-17,Morning,53300,17.38878595,78.46106473,Telangana,Hyderabad
+Saikumar,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Vijayawada,South,2023-02-17,Morning,53952,16.5087573,80.6185089,Andhra Pradesh,Vijayawada
+Saikumar,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Bangalore,South,2023-02-17,Morning,53900,12.9767936,77.590082,Karnataka,Bangalore
+Saikumar,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Chennai,South,2023-02-17,Morning,53600,13.0836939,80.270186,Tamil Nadu,Chennai
+Indranil,TMT (Secondary),Long Products,"IS 1786, Fe 500",12mm,EXW,Patna,East,2023-02-17,Morning,57200,25.6093239,85.1235252,Bihar,Patna
+Keshav,Angle (Primary),Long Products,"IS 2062, E250 BR",ISA 75mm x 75mm x 6mm (6.8 KG),EXY,Raipur,Central,2023-02-17,Morning,59500,21.2380912,81.6336993,Chhattisgarh,Raipur
+Alok,Angle (Primary),Long Products,"IS 2062, E250 BR",ISA 75mm x 75mm x 6mm (6.8 KG),EXY,Ghaziabad,North,2023-02-17,Morning,61500,28.6711527,77.4120356,Uttar Pradesh,Ghaziabad
+Keshav,Angle (Secondary),Long Products,"IS 2062, E250 BR",90mm x 90mm x 6mm,EXW,Raipur,Central,2023-02-17,Morning,54000,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Angle (Secondary),Long Products,"IS 2062, E250 BR",40mm x 40mm x 5mm,EXW,Raipur,Central,2023-02-17,Morning,52500,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Angle (Secondary),Long Products,"IS 2062, E250 BR",50mm x 50mm x 6mm,EXW,Raipur,Central,2023-02-17,Morning,51600,21.2380912,81.6336993,Chhattisgarh,Raipur
+Javed,Angle (Secondary),Long Products,"IS 2062, E250 BR",40mm x 40mm x 5mm,EXW,Mumbai,West,2023-02-17,Morning,60000,19.0785451,72.878176,Maharashtra,Mumbai
+Javed,Angle (Secondary),Long Products,"IS 2062, E250 BR",50mm x 50mm x 6mm,EXW,Mumbai,West,2023-02-17,Morning,57000,19.0785451,72.878176,Maharashtra,Mumbai
+Javed,Angle (Secondary),Long Products,"IS 2062, E250 BR",50mm x 50mm x 6mm,EXW,Pune,West,2023-02-17,Morning,57000,18.521428,73.8544541,Maharashtra,Pune
+Kunal Varma,Angle (Secondary),Long Products,"IS 2062, E250 BR",90mm x 90mm x 6mm,EXW,Gandhidham,West,2023-02-17,Morning,56400,23.0718743,70.131715,Gujarat,Gandhidham
+Kunal Varma,Angle (Secondary),Long Products,"IS 2062, E250 BR",40mm x 40mm x 5mm,EXW,Gandhidham,West,2023-02-17,Morning,56300,23.0718743,70.131715,Gujarat,Gandhidham
+Indranil,Angle (Secondary),Long Products,"IS 2062, E250 BR",75mm x 75mm x 6mm,EXW,Ahmedabad,West,2023-02-17,Morning,54601,23.0216238,72.5797068,Gujarat,Ahmedabad
+Indranil,Angle (Secondary),Long Products,"IS 2062, E250 BR",50mm x 50mm x 6mm,EXW,Ahmedabad,West,2023-02-17,Morning,53501,23.0216238,72.5797068,Gujarat,Ahmedabad
+Indranil,Angle (Secondary),Long Products,"IS 2062, E250 BR",40mm x 40mm x 5mm,EXW,Ahmedabad,West,2023-02-17,Morning,55300,23.0216238,72.5797068,Gujarat,Ahmedabad
+Indranil,Angle (Secondary),Long Products,"IS 2062, E250 BR",40mm x 40mm x 5mm,EXW,Durgapur,East,2023-02-17,Morning,52000,23.5350475,87.3380425,West Bengal,Durgapur
+Indranil,Angle (Secondary),Long Products,"IS 2062, E250 BR",50mm x 50mm x 6mm,EXW,Durgapur,East,2023-02-17,Morning,52250,23.5350475,87.3380425,West Bengal,Durgapur
+Indranil,Angle (Secondary),Long Products,"IS 2062, E250 BR",75mm x 75mm x 6mm,EXW,Durgapur,East,2023-02-17,Morning,52500,23.5350475,87.3380425,West Bengal,Durgapur
+Indranil,Angle (Secondary),Long Products,"IS 2062, E250 BR",40mm x 40mm x 5mm,EXW,Rourkela,East,2023-02-17,Morning,51500,22.2539994,84.85775201,Odisha,Rourkela
+Indranil,Angle (Secondary),Long Products,"IS 2062, E250 BR",50mm x 50mm x 6mm,EXW,Mandi Gobindgarh,North,2023-02-17,Morning,53500,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Alok,Angle (Secondary),Long Products,"IS 2062, E250 BR",50mm x 50mm x 6mm,EXW,Mandi Gobindgarh,North,2023-02-17,Morning,53500,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Alok,Angle (Secondary),Long Products,"IS 2062, E250 BR",50mm x 50mm x 6mm,EXW,Ghaziabad,North,2023-02-17,Morning,54300,28.6711527,77.4120356,Uttar Pradesh,Ghaziabad
+Alok,Angle (Secondary),Long Products,"IS 2062, E250 BR",50mm x 50mm x 6mm,EXW,Muzaffarnagar,North,2023-02-17,Morning,54300,29.44800635,77.74068503,Uttar Pradesh,Muzaffarnagar
+Alok,Angle (Secondary),Long Products,"IS 2062, E250 BR",50mm x 50mm x 6mm,EXW,Delhi NCR,North,2023-02-17,Morning,54500,28.6882438,77.1212148,Delhi,Delhi NCR
+Saikumar,Angle (Secondary),Long Products,"IS 2062, E250 BR",40mm x 40mm x 5mm,EXW,Hyderabad,South,2023-02-17,Morning,51600,17.38878595,78.46106473,Telangana,Hyderabad
+Saikumar,Angle (Secondary),Long Products,"IS 2062, E250 BR",40mm x 40mm x 5mm,EXW,Chennai,South,2023-02-17,Morning,51600,13.0836939,80.270186,Tamil Nadu,Chennai
+Saikumar,Angle (Secondary),Long Products,"IS 2062, E250 BR",40mm x 40mm x 5mm,EXW,Bangalore,South,2023-02-17,Morning,51800,12.9767936,77.590082,Karnataka,Bangalore
+Saikumar,Angle (Secondary),Long Products,"IS 2062, E250 BR",50mm x 50mm x 6mm,EXW,Bangalore,South,2023-02-17,Morning,51800,12.9767936,77.590082,Karnataka,Bangalore
+Keshav,Channel (Primary),Long Products,"IS 2062, E250 BR",ISMC 100mm × 50mm x 5mm (9.6 KG),EXY,Raipur,Central,2023-02-17,Morning,61500,21.2380912,81.6336993,Chhattisgarh,Raipur
+Alok,Channel (Primary),Long Products,"IS 2062, E250 BR",ISMC 100mm × 50mm x 5mm (9.6 KG),EXY,Ghaziabad,North,2023-02-17,Morning,61500,28.6711527,77.4120356,Uttar Pradesh,Ghaziabad
+Kunal Varma,Channel (Secondary),Long Products,"IS 2062, E250 BR",75mm x 40mm (H),EXW,Raipur,Central,2023-02-17,Morning,55000,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Channel (Secondary),Long Products,"IS 2062, E250 BR",75mm x 40mm (H),EXW,Raipur,Central,2023-02-17,Morning,54000,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Channel (Secondary),Long Products,"IS 2062, E250 BR",75mm x 40mm (M),EXW,Raipur,Central,2023-02-17,Morning,54000,21.2380912,81.6336993,Chhattisgarh,Raipur
+Javed,Channel (Secondary),Long Products,"IS 2062, E250 BR",75mm x 40mm (H),EXW,Mumbai,West,2023-02-17,Morning,60700,19.0785451,72.878176,Maharashtra,Mumbai
+Kunal Varma,Channel (Secondary),Long Products,"IS 2062, E250 BR",150mm x 75mm (H),EXW,Gandhidham,West,2023-02-17,Morning,55700,23.0718743,70.131715,Gujarat,Gandhidham
+Kunal Varma,Channel (Secondary),Long Products,"IS 2062, E250 BR",75mm x 40mm (H),EXW,Gandhidham,West,2023-02-17,Morning,56300,23.0718743,70.131715,Gujarat,Gandhidham
+Indranil,Channel (Secondary),Long Products,"IS 2062, E250 BR",75mm x 40mm (L),EXW,Ahmedabad,West,2023-02-17,Morning,54701,23.0216238,72.5797068,Gujarat,Ahmedabad
+Indranil,Channel (Secondary),Long Products,"IS 2062, E250 BR",75mm x 40mm (L),EXW,Durgapur,East,2023-02-17,Morning,52750,23.5350475,87.3380425,West Bengal,Durgapur
+Indranil,Channel (Secondary),Long Products,"IS 2062, E250 BR",75mm x 40mm (L),EXW,Rourkela,East,2023-02-17,Morning,52000,22.2539994,84.85775201,Odisha,Rourkela
+Indranil,Channel (Secondary),Long Products,"IS 2062, E250 BR",75mm x 40mm (L),EXW,Mandi Gobindgarh,North,2023-02-17,Morning,54500,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Indranil,Channel (Secondary),Long Products,"IS 2062, E250 BR",75mm x 40mm (L),EXW,Sambalpur,East,2023-02-17,Morning,54300,21.4706422,83.9836858,Odisha,
+Alok,Channel (Secondary),Long Products,"IS 2062, E250 BR",75mm x 40mm (M),EXW,Mandi Gobindgarh,North,2023-02-17,Morning,55200,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
+Alok,Channel (Secondary),Long Products,"IS 2062, E250 BR",75mm x 40mm (M),EXW,Ghaziabad,North,2023-02-17,Morning,54500,28.6711527,77.4120356,Uttar Pradesh,Ghaziabad
+Alok,Channel (Secondary),Long Products,"IS 2062, E250 BR",75mm x 40mm (M),EXW,Muzaffarnagar,North,2023-02-17,Morning,54500,29.44800635,77.74068503,Uttar Pradesh,Muzaffarnagar
+Alok,Channel (Secondary),Long Products,"IS 2062, E250 BR",75mm x 40mm (M),EXW,Delhi NCR,North,2023-02-17,Morning,54700,28.6882438,77.1212148,Delhi,Delhi NCR
+Saikumar,Channel (Secondary),Long Products,"IS 2062, E250 BR",75mm x 40mm (H),EXW,Hyderabad,South,2023-02-17,Morning,53200,17.38878595,78.46106473,Telangana,Hyderabad
+Saikumar,Channel (Secondary),Long Products,"IS 2062, E250 BR",75mm x 40mm (H),EXW,Chennai,South,2023-02-17,Morning,53200,13.0836939,80.270186,Tamil Nadu,Chennai
+Saikumar,Channel (Secondary),Long Products,"IS 2062, E250 BR",75mm x 40mm (H),EXW,Bangalore,South,2023-02-17,Morning,53100,12.9767936,77.590082,Karnataka,Bangalore
+Keshav,Beam (Primary),Long Products,"IS 2062, E250 BR",ISMB 200mm x 100mm x 5.7mm (25.4 KG),EXY,Raipur,Central,2023-02-17,Morning,60000,21.2380912,81.6336993,Chhattisgarh,Raipur
+Alok,Beam (Primary),Long Products,"IS 2062, E250 BR",ISMB 200mm x 100mm x 5.7mm (25.4 KG),EXY,Ghaziabad,North,2023-02-17,Morning,61500,28.6711527,77.4120356,Uttar Pradesh,Ghaziabad
+Kunal Varma,Iron Ore Fines,Raw Materials,"Fines, Fe 64%",0mm to 10mm,EXM,Nagarnar,Central,2023-02-17,Morning,3910,19.089805,82.1718118,Chhattisgarh,
+Kunal Varma,Iron Ore Fines,Raw Materials,"Fines, Fe 60%",0mm to 10mm,EXM,Kendujhar,East,2023-02-17,Morning,4804,21.5892323,85.66878414,Odisha,
+Kunal Varma,Iron Ore Fines,Raw Materials,"Fines, Fe 62%",0mm to 10mm,EXM,Kendujhar,East,2023-02-17,Morning,5400,21.5892323,85.66878414,Odisha,
+Kunal Varma,Iron Ore Fines,Raw Materials,"Fines, Fe 60%",0mm to 5mm,EXM,Kendujhar,East,2023-02-17,Morning,5000,21.5892323,85.66878414,Odisha,
+Kunal Varma,Iron Ore Fines,Raw Materials,"Fines, Fe 62%",0mm to 5mm,EXM,Kendujhar,East,2023-02-17,Morning,5450,21.5892323,85.66878414,Odisha,
+Kunal Varma,Iron Ore Fines,Raw Materials,"Fines, Fe 54%",0mm to 5mm,EXM,Kendujhar,East,2023-02-17,Morning,2500,21.5892323,85.66878414,Odisha,
+Kunal Varma,Iron Ore Fines,Raw Materials,"Fines, Fe 60%",0mm to 10mm,EXM,Sundargarh,East,2023-02-17,Morning,4888,22.13327195,83.9796528,Odisha,
+Kunal Varma,Iron Ore Fines,Raw Materials,"Fines, Fe 60%",0mm to 10mm,EXM,Mayurbhanj,East,2023-02-17,Morning,4900,21.75,86.5,Odisha,
+Kunal Varma,Iron Ore Fines,Raw Materials,"Fines, Fe 58%",0mm to 5mm,EXM,Kendujhar,East,2023-02-17,Morning,2800,21.5892323,85.66878414,Odisha,
+Kunal Varma,Iron Ore Lumps,Raw Materials,"Lumps, Fe 65.5%",6mm to 40mm,EXM,Nagarnar,Central,2023-02-17,Morning,4400,19.089805,82.1718118,Chhattisgarh,
+Kunal Varma,Iron Ore Lumps,Raw Materials,"Lumps, Fe 62%",10mm to 40mm,EXM,Kendujhar,East,2023-02-17,Morning,6500,21.5892323,85.66878414,Odisha,
+Kunal Varma,Iron Ore Lumps,Raw Materials,"Lumps, Fe 62%",18mm to 40mm,EXM,Kendujhar,East,2023-02-17,Morning,7332,21.5892323,85.66878414,Odisha,
+Kunal Varma,Iron Ore Lumps,Raw Materials,"Lumps, Fe 62%",5mm to 18mm,EXM,Kendujhar,East,2023-02-17,Morning,7950,21.5892323,85.66878414,Odisha,
+Kunal Varma,Iron Ore Lumps,Raw Materials,"Lumps, Fe 62%",10mm to 40mm,EXM,Sundargarh,East,2023-02-17,Morning,6950,22.13327195,83.9796528,Odisha,
+Kunal Varma,Iron Ore Lumps,Raw Materials,"Lumps, Fe 62%",10mm to 40mm,EXM,Mayurbhanj,East,2023-02-17,Morning,9150,21.75,86.5,Odisha,
+Kunal Varma,Beam (Secondary),Long Products,"IS 2062, E250 BR",ISMB 150mm x 75mm,EXW,Raipur,Central,2023-02-17,Morning,55000,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Beam (Secondary),Long Products,"IS 2062, E250 BR",ISMB 150mm x 75mm,EXW,Raipur,Central,2023-02-17,Morning,54000,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Beam (Secondary),Long Products,"IS 2062, E250 BR",ISMB 100mm x 80mm,EXW,Raipur,Central,2023-02-17,Morning,54000,21.2380912,81.6336993,Chhattisgarh,Raipur
+Keshav,Beam (Secondary),Long Products,"IS 2062, E250 BR",ISMB 200mm x 100mm,EXW,Raipur,Central,2023-02-17,Morning,54300,21.2380912,81.6336993,Chhattisgarh,Raipur
+Javed,Beam (Secondary),Long Products,"IS 2062, E250 BR",ISMB 150mm x 75mm,EXW,Mumbai,West,2023-02-17,Morning,60700,19.0785451,72.878176,Maharashtra,Mumbai
+Kunal Varma,Beam (Secondary),Long Products,"IS 2062, E250 BR",ISMB 150mm x 75mm,EXW,Gandhidham,West,2023-02-17,Morning,55700,23.0718743,70.131715,Gujarat,Gandhidham
+Indranil,Beam (Secondary),Long Products,"IS 2062, E250 BR",ISMB 200mm x 100mm,EXW,Ahmedabad,West,2023-02-17,Morning,55101,23.0216238,72.5797068,Gujarat,Ahmedabad
+Indranil,Beam (Secondary),Long Products,"IS 2062, E250 BR",ISMB 150mm x 75mm,EXW,Ahmedabad,West,2023-02-17,Morning,55100,23.0216238,72.5797068,Gujarat,Ahmedabad
+Indranil,Beam (Secondary),Long Products,"IS 2062, E250 BR",ISMB 200mm x 100mm,EXW,Durgapur,East,2023-02-17,Morning,52750,23.5350475,87.3380425,West Bengal,Durgapur
+Indranil,Beam (Secondary),Long Products,"IS 2062, E250 BR",ISMB 200mm x 100mm,EXW,Sambalpur,East,2023-02-17,Morning,54300,21.4706422,83.9836858,Odisha,
+Saikumar,Beam (Secondary),Long Products,"IS 2062, E250 BR",ISMB 100mm x 80mm,EXW,Hyderabad,South,2023-02-17,Morning,52500,17.38878595,78.46106473,Telangana,Hyderabad
+Saikumar,Beam (Secondary),Long Products,"IS 2062, E250 BR",ISMB 100mm x 80mm,EXW,Chennai,South,2023-02-17,Morning,52400,13.0836939,80.270186,Tamil Nadu,Chennai
+Saikumar,Beam (Secondary),Long Products,"IS 2062, E250 BR",ISMB 100mm x 80mm,EXW,Bangalore,South,2023-02-17,Morning,52600,12.9767936,77.590082,Karnataka,Bangalore
+Alok,Beam (Secondary),Long Products,"IS 2062, E250 BR",ISMB 150mm x 75mm,EXW,Mandi Gobindgarh,North,2023-02-17,Morning,57200,30.6518301,76.2998708,Punjab,Mandi Gobindgarh
